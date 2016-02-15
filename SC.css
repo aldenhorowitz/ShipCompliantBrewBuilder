@@ -1,0 +1,10 @@
+body {
+background-image: url("BreweryBackground.jpg");
+
+-moz-background-size: cover;
+-webkit-background-size: cover;
+background-size: cover;
+background-position: center !important;
+background-repeat: no-repeat !important;
+background-attachment: fixed;
+}
